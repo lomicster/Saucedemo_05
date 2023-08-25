@@ -2,7 +2,7 @@ name: selenium_test
 on: [push, pull_request]
 
 permissions:
-  checks: write
+  checks: write1
   pull-requests: write
   contents: read
 
